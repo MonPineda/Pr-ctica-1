@@ -1,1 +1,1 @@
-# Pr-ctica-1
+# Esta es la primera práctica en GitHub
